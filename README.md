@@ -1,8 +1,8 @@
 # move_learning
 
-repo containing 3 mini projects: 
+repo containing 3 mini projects to descover sui move: 
 
-1- simple token mint/ generator 
+1- Simple token mint/ generator:
   the goal is to write a module that allows: 
   - Users to mint a simple fungible token (like an ERC20 but Sui-style).
   - Users can transfer, burn, and check balances.
